@@ -41,7 +41,6 @@ Lead Developer C/C++ – 3D & Computer Vision
 ## Expérience professionnelle
 
 ### Responsable développement C++
-
 Invis’Art, Narbonne (11), France.
 *Mars 2022 – Juillet 2025*  
 
@@ -49,7 +48,6 @@ Invis’Art, Narbonne (11), France.
 - 🖥️ Conception et développement de logiciels haute performance en vision 3D. 🐧  
 
 ### Développeur C++
-
 Condor SAS / Invis’Art, Narbonne (11), France.
 *Juillet 2019 – Mars 2022*  
 
@@ -57,7 +55,6 @@ Condor SAS / Invis’Art, Narbonne (11), France.
 - 🚀 Optimisation GPU avec CUDA pour améliorer les performances. 🐧  
 
 ### Formateur et Encadrant
-
 INTECH Sud, Béziers (34), France.
 *Juillet 2018 – Juillet 2019*  
 
@@ -65,7 +62,6 @@ INTECH Sud, Béziers (34), France.
 - 🤝 Encadrement des projets étudiants et prospection partenariale. 🐧   
 
 ### Développeur C++
-
 C4W, Montpellier (34), France.     
 *Juin 2013 – Juillet 2018*  
 
@@ -73,7 +69,6 @@ C4W, Montpellier (34), France.
 - 👥 Support client et gestion de projets. 🪟
 
 ### Développeur Mobile Junior
-
 N-Gine Innovation, Nîmes (30), France.  
 *Février 2013 – Avril 2013*
 
@@ -81,15 +76,13 @@ N-Gine Innovation, Nîmes (30), France.
 - 📱 Applications de calcul des dépenses caloriques. 🍎
 
 ### Auto-entrepreneur – Développement Web
-
 *2012 – 2013*  
 - 🛠️ TMA et conception de mini-jeux, intégration de Web Apps. 🌐  
 
 ### Développeur stagiaire
-
 Antek Studio, Saint-Mathieu-de-Tréviers (34), France.  
-
 *Avril 2012 – Septembre 2012*  
+
 - 🎮 Conception d’un mode multijoueur pour un jeu 3D et travaux sur application de réalité augmentée. 🤖
 
 ---
