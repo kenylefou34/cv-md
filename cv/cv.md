@@ -1,56 +1,129 @@
 ---
+
 title: CV
-author: Oliver Thurley
-email: example@gmail.com
-phone: "+447792------"
-web: thrly.com
-github: thrly
-linkedin: oliver-thurley
-updated: June 2025
+author: Ken Izquierdo
+📧 Email : [ken.izquierdo@gmail.com](mailto:ken.izquierdo@gmail.com)  
+🔗 LinkedIn : [ken-izquierdo](https://www.linkedin.com/in/ken-izquierdo/)
+updated: Août 2025
+
 ---
 
-Dynamic and detail-oriented professional with a strong background in [Your Field/Industry]. Proven ability to manage projects, lead teams, and deliver results in fast-paced environments.
+Lead Developer C/C++ – 3D & Computer Vision
 
-## Education
+---
 
-### Bachelor of Science in [Your Major]
+Expert en développement C/C++ avec une forte expérience en R&D, spécialisé en vision par ordinateur, maillage 3D, et doté d’une solide expérience en management d’équipes techniques.
+Passionné par l’innovation technologique et la transmission des connaissances, sociable, rigoureux, autonome, avec une forte capacité d’adaptation aux nouveaux outils.
 
-[Your University], [City, State]  
-[Month, Year] - [Month, Year]
+## Loisirs
 
-## Experience
-
-### [Your Job Title]
-
-[Your Company], [City, State]  
-[Month, Year] - Present
-
-- Developed and implemented [specific project or task].
-- Collaborated with [team or department] to achieve [specific goal].
-
-### [Previous Job Title]
-
-[Previous Company], [City, State]  
-[Month, Year] - [Month, Year]
-
-- Assisted in [specific project or task].
-- Improved [specific process or metric] by [percentage or outcome].
+- 🥋 Full Contact (compétiteur, professeur et président du *Full Contact Biterrois*)  
+- 🎬 Séries TV  
+- 🏃 Course à pied
 
 ## Skills
 
-- **Technical Skills:** [Skill 1], [Skill 2], [Skill 3]
-- **Soft Skills:** [Skill 1], [Skill 2], [Skill 3]
+- **Langages :** C/C++, CUDA, Java, C#, Kotlin, Python, notions en OpenGL et DirectX
+- **Soft skills :** Management, Vulgarisation, Relationnel B2B/B2C
+Linux, Windows, Mac, Git, SVN  (mettre les logos)
 
-## Certifications
+### Langues 
 
-- [Certification Name], [Issuing Organization] - [Year]
-- [Certification Name], [Issuing Organization] - [Year]
+- 🇫🇷 : Langue maternelle  
+- 🇬🇧 : C1 (autonome)
+- 🇪🇸 : B1 (intermédiaire)
 
-## Projects
+---
 
-- **[Project Name]**: Brief description of the project and your role.
-- **[Project Name]**: Brief description of the project and your role.
+## Expérience professionnelle
+
+### Lead Developer C++
+
+Invis’Art, Narbonne (11), France
+*Mars 2022 – Présent*  
+
+- 💼 Management d'équipe technique (~20%) et recherche & développement (~80%) 🐧  
+- 🚀 Conception et développement de logiciels haute performance en vision 3D 🐧  
+
+### Développeur C++
+
+Condor SAS / Invis’Art, Narbonne (11), France
+*Juillet 2019 – Mars 2022*  
+
+- Développement de la reconstruction 3D en photogrammétrie multivues 🐧
+- Optimisation GPU avec CUDA pour améliorer les performances 🐧  
+
+### Formateur et Encadrant
+
+INTECH Sud, Béziers (34),France
+*Juillet 2018 – Juillet 2019*  
+
+- 🎓 Création de supports pédagogiques et formation à l’algorithmique et gestion de projets 🪟
+- 🤝 Encadrement des projets étudiants et prospection partenariale 🐧   
+
+### Développeur C++
+
+C4W, Montpellier (34), France     
+*Juin 2013 – Juillet 2018*  
+
+- 🚀 Développement et maintenance de logiciels de CAO 3D pour le dentaire 🪟 
+- 👥 Support client et gestion de projets 🪟
+
+### Développeur Mobile Junior
+
+N-Gine Innovation, Nîmes (30), France     
+*Février 2013 – Avril 2013*
+
+- 📱 Applications de traitement d’image 🤖
+- 📱 Applications de calcul de dépense calorifique 🍎
+
+### Auto-entrepreneur – Développement Web
+
+*2012 – 2013*  
+- 🛠️ TMA et conception de mini-jeux, intégration de Web Apps 🌐  
+
+### Développeur stagiaire
+
+Antek Studio, Saint-Mathieu-de-Tréviers (34), France  
+
+*Avril 2012 – Septembre 2012*  
+- 🎮 Conception d’un mode multijoueur pour un jeu 3D et travaux sur application de réalité augmentée 🤖
+
+---
+
+## Projects principaux
+
+- **[Porte-Empreinte optique 3D](https://www.youtube.com/watch?v=0UtZMvnfV6s)**: Développeur en chef de la reconstruction, traitement des maillages 3D - voir [présentation](https://www.youtube.com/watch?v=jvU0j-GJay8)
+- **[ORTH'UP](https://orthup.fr/)**: Mise en place de l'architecture, intégration de fonctionnalités
+- **[Digistell](https://c4w.com/solutions/digistell)**: Améliorations, optimisation, corrections, support client
+- **[SportyCloud](https://www.sportycloud.com/)**: Développement de la partie calcul de calories
+
+## Formations
+
+- Initiation au Machine Learning, Invis'Art - 2023
+- Entretiens PRO pour les managers, Invis'Art - 2022
+- Initiation à CUDA, Invis'Art - 2021
+- Expert, devenir Manager, Invis'Art - 2021
+- TDD & GitLab, Invis'Art - 2020
+
+---
+
+## Études
+
+### Master 2 Informatique en Ingénierie de l’IA
+- 🎓 Faculté des Sciences de Montpellier II, 2010-2012.  
+
+### Licence 3 Informatique
+- 🎓 Faculté des Sciences de Montpellier II, 2007-2010  
+
+### Licence 1 Biologie
+Faculté des Sciences de Montpellier II, 2006-2007 
+
+### Baccalauréat Scientifique avec spécialité Biologie
+- 🎓 Lycée Jean Moulin, Béziers, 2005-2006  
+
+---
 
 ## Contact
 
-Please get in touch via [email](mailto:example@gmail.com) and find me on [GitHub](https://github.com/) or [LinkedIn](https://www.linkedin.com/in/).
+Contactez moi par [E-mail](mailto:ken.izquierdo@gmail.com) aussi trouvez moi sur [LinkedIn](https://www.linkedin.com/in/ken-izquierdo/).
