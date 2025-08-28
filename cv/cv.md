@@ -48,21 +48,21 @@ Invis’Art, Narbonne (11), France.
 - 🖥️ Conception et développement de logiciels haute performance en vision 3D. 🐧  
 
 ### Développeur C++
-Condor SAS / Invis’Art, Narbonne (11), France.
+Condor SAS / Invis’Art, Narbonne (11), France.  
 *Juillet 2019 – Mars 2022*  
 
 - 📸 Développement de la reconstruction 3D en photogrammétrie multi-vues. 🐧
 - 🚀 Optimisation GPU avec CUDA pour améliorer les performances. 🐧  
 
 ### Formateur et Encadrant
-INTECH Sud, Béziers (34), France.
+INTECH Sud, Béziers (34), France.  
 *Juillet 2018 – Juillet 2019*  
 
 - 🎓 Création de supports pédagogiques et formation à l’algorithmique et gestion de projets. 🪟
 - 🤝 Encadrement des projets étudiants et prospection partenariale. 🐧   
 
 ### Développeur C++
-C4W, Montpellier (34), France.     
+C4W, Montpellier (34), France.  
 *Juin 2013 – Juillet 2018*  
 
 - 🖥️ Développement et maintenance de logiciels de CAO 3D pour le dentaire. 🪟 
@@ -77,6 +77,7 @@ N-Gine Innovation, Nîmes (30), France.
 
 ### Auto-entrepreneur – Développement Web
 *2012 – 2013*  
+
 - 🛠️ TMA et conception de mini-jeux, intégration de Web Apps. 🌐  
 
 ### Développeur stagiaire
