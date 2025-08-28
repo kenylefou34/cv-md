@@ -1,11 +1,12 @@
 ---
-
 title: CV
 author: Ken Izquierdo
-📧 Email : [ken.izquierdo@gmail.com](mailto:ken.izquierdo@gmail.com)  
-🔗 LinkedIn : [ken-izquierdo](https://www.linkedin.com/in/ken-izquierdo/)
-updated: Août 2025
-
+email: ken.izquierdo@gmail.com
+phone: "+336--------"
+web: github.com
+github: kenylefou34 
+linkedin: ken-izquierdo
+updated: August 2025
 ---
 
 Lead Developer C/C++ – 3D & Computer Vision
@@ -126,4 +127,4 @@ Faculté des Sciences de Montpellier II, 2006-2007
 
 ## Contact
 
-Contactez moi par [E-mail](mailto:ken.izquierdo@gmail.com) aussi trouvez moi sur [LinkedIn](https://www.linkedin.com/in/ken-izquierdo/).
+Contactez moi par 📧 [E-mail](mailto:ken.izquierdo@gmail.com) aussi trouvez moi sur 🔗 [LinkedIn](https://www.linkedin.com/in/ken-izquierdo/).
