@@ -25,8 +25,9 @@ Passionné par l’innovation technologique et la transmission des connaissances
 ## Skills
 
 - **Langages :** C/C++, CUDA, Java, C#, Kotlin, Python, notions en OpenGL et DirectX
-- **Soft skills :** Management, Vulgarisation, Relationnel B2B/B2C
-Linux, Windows, Mac, Git, SVN  (mettre les logos)
+- **Environnements :** Linux, Windows, Mac
+- **Sources :** Git, SVN
+- **Soft skills :** Management, vulgarisation, relationnel B2B/B2C
 
 ### Langues 
 
@@ -44,15 +45,15 @@ Invis’Art, Narbonne (11), France
 *Mars 2022 – Présent*  
 
 - 💼 Management d'équipe technique (~20%) et recherche & développement (~80%) 🐧  
-- 🚀 Conception et développement de logiciels haute performance en vision 3D 🐧  
+- 🖥️ Conception et développement de logiciels haute performance en vision 3D 🐧  
 
 ### Développeur C++
 
 Condor SAS / Invis’Art, Narbonne (11), France
 *Juillet 2019 – Mars 2022*  
 
-- Développement de la reconstruction 3D en photogrammétrie multivues 🐧
-- Optimisation GPU avec CUDA pour améliorer les performances 🐧  
+- 📸 Développement de la reconstruction 3D en photogrammétrie multivues 🐧
+- 🚀 Optimisation GPU avec CUDA pour améliorer les performances 🐧  
 
 ### Formateur et Encadrant
 
@@ -67,7 +68,7 @@ INTECH Sud, Béziers (34),France
 C4W, Montpellier (34), France     
 *Juin 2013 – Juillet 2018*  
 
-- 🚀 Développement et maintenance de logiciels de CAO 3D pour le dentaire 🪟 
+- 🖥️ Développement et maintenance de logiciels de CAO 3D pour le dentaire 🪟 
 - 👥 Support client et gestion de projets 🪟
 
 ### Développeur Mobile Junior
@@ -92,7 +93,7 @@ Antek Studio, Saint-Mathieu-de-Tréviers (34), France
 
 ---
 
-## Projects principaux
+## Quelques projets
 
 - **[Porte-Empreinte optique 3D](https://www.youtube.com/watch?v=0UtZMvnfV6s)**: Développeur en chef de la reconstruction, traitement des maillages 3D - voir [présentation](https://www.youtube.com/watch?v=jvU0j-GJay8)
 - **[ORTH'UP](https://orthup.fr/)**: Mise en place de l'architecture, intégration de fonctionnalités
@@ -127,4 +128,4 @@ Faculté des Sciences de Montpellier II, 2006-2007
 
 ## Contact
 
-Contactez moi par 📧 [E-mail](mailto:ken.izquierdo@gmail.com) aussi trouvez moi sur 🔗 [LinkedIn](https://www.linkedin.com/in/ken-izquierdo/).
+Contactez moi par 📧 [E-mail](mailto:ken.izquierdo@gmail.com), trouvez moi aussi sur 🔗 [LinkedIn](https://www.linkedin.com/in/ken-izquierdo/).
