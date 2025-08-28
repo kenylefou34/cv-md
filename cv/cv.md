@@ -41,7 +41,7 @@ Lead Developer C/C++ – 3D & Computer Vision
 ## Expérience professionnelle
 
 ### Responsable développement C++
-Invis’Art, Narbonne (11), France.
+Invis’Art, Narbonne (11), France.  
 *Mars 2022 – Juillet 2025*  
 
 - 💼 Management d'équipe technique (~20%) et recherche & développement (~80%). 🐧  
