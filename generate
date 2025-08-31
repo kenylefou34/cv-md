@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mkdir -p outputs
+
+pandoc -s -o outputs/cv.html cv/cv.md --css=../cv/templates/style.css --template=cv/templates/cv-template.html
